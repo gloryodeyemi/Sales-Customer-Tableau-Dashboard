@@ -1,6 +1,6 @@
 # 📊 Tableau Sales & Customer Performance Dashboard
 
-This project features two interactive Tableau dashboards—**Sales Performance** and **Customer Analysis**—designed to help business stakeholders analyze sales trends, understand customer behavior, and make data-driven decisions.
+This project features two interactive Tableau dashboards - **Sales Performance** and **Customer Analysis** - designed to help business stakeholders analyze sales trends, understand customer behavior, and make data-driven decisions.
 
 ![Dashboard](media/sales-dashboard.png)
 
