@@ -1,2 +1,77 @@
-# Sales-Customer-Tableau-Dashboard
-Interactive **Sales Performance** and **Customer Analysis** Tableau dashboards designed to help business stakeholders analyze sales trends, understand customer behaviour, and make data-driven decisions.
+# 📊 Tableau Sales & Customer Performance Dashboard
+
+This project features two interactive Tableau dashboards—**Sales Performance** and **Customer Analysis**—designed to help business stakeholders analyze sales trends, understand customer behavior, and make data-driven decisions.
+
+## 🎯 Project Objectives
+
+This project was developed as part of a user story to provide stakeholders, such as sales managers and executives, with visual insights into sales metrics and customer behavior. The dashboards enable deep dives into sales performance across time, product categories, and customer segments.
+
+## 📌 Dashboards Overview
+
+### 1. 📈 Sales Performance Dashboard
+
+**Purpose:**  
+To analyze year-over-year sales performance, track key metrics, and identify trends in product and time-based sales performance.
+
+#### ✅ Features
+- **KPI Summary:**  
+  - Total Sales, Profit, and Quantity for current and previous year.
+
+- **Monthly Sales Trends:**  
+  - Visualize monthly data for all KPIs (Sales, Profit, Quantity).
+  - Highlight months with the highest and lowest sales.
+
+- **Product Subcategory Comparison:**  
+  - Compare performance across subcategories for current and previous years.
+  - View sales alongside profit for each category.
+
+- **Weekly Trends:**  
+  - Weekly breakdown of Sales and Profit for the current year.
+  - Highlight weeks above and below average to track performance patterns.
+
+---
+
+### 2. 👥 Customer Analysis Dashboard
+
+**Purpose:**  
+To understand customer behavior, trends, and segments to enhance marketing and retention strategies.
+
+#### ✅ Features
+- **Customer KPIs:**  
+  - Total Customers, Sales per Customer, and Total Orders for current and previous year.
+
+- **Monthly Customer Trends:**  
+  - Track KPIs by month.
+  - Highlight months with the highest and lowest customer-related sales.
+
+- **Customer Order Distribution:**  
+  - Distribution of customers by number of orders to assess engagement and loyalty.
+
+- **Top 10 Customers by Profit:**  
+  - Ranks top 10 customers based on profit generated.
+  - Displays number of orders, total sales/profit, and last order date.
+
+## 🧩 Design & Interactivity
+
+- **Year Selector:**  
+  Users can dynamically view historical data for any selected year.
+
+- **Interactive Charts:**  
+  Clickable charts and graphs to filter and explore specific data segments.
+
+- **Seamless Navigation:**  
+  Users can switch between dashboards with ease.
+
+- **Filters:**  
+  Data can be filtered by:
+  - **Product Info:** Category & Subcategory  
+  - **Location Info:** Region, State, City
+
+## 🎥 Dashboard Demo
+
+//![Dashboard Demo](media/dashboard-demo.gif)
+
+## 👩🏽‍💻 Contact
+Glory Odeyemi - Data Engineer & Analyst
+- For questions, feedback, opportunities, or collaborations, connect with me via [LinkedIn](https://www.linkedin.com/in/glory-odeyemi/).
+- For more exciting projects or inspiration, check out my [GitHub repositories](https://github.com/gloryodeyemi).
