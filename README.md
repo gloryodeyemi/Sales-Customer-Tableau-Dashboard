@@ -2,9 +2,14 @@
 
 This project features two interactive Tableau dashboards—**Sales Performance** and **Customer Analysis**—designed to help business stakeholders analyze sales trends, understand customer behavior, and make data-driven decisions.
 
-## 🎯 Project Objectives
+![Dashboard](media/sales-dashboard.png)
 
-This project was developed as part of a user story to provide stakeholders, such as sales managers and executives, with visual insights into sales metrics and customer behavior. The dashboards enable deep dives into sales performance across time, product categories, and customer segments.
+## 🎯 Project Objectives & Business Value
+This project enables organizations to:
+- Track sales growth and profit fluctuations effectively.
+- Identify high-performing products and customer segments.
+- Improve customer satisfaction through data-driven marketing.
+- React proactively to seasonal sales trends and anomalies.
 
 ## 📌 Dashboards Overview
 
@@ -38,7 +43,7 @@ To understand customer behavior, trends, and segments to enhance marketing and r
 
 #### ✅ Features
 - **Customer KPIs:**  
-  - Total Customers, Sales per Customer, and Total Orders for current and previous year.
+  - Total Customers, Sales per Customer, and Total Orders for the current and previous year.
 
 - **Monthly Customer Trends:**  
   - Track KPIs by month.
@@ -69,7 +74,22 @@ To understand customer behavior, trends, and segments to enhance marketing and r
 
 ## 🎥 Dashboard Demo
 
-//![Dashboard Demo](media/dashboard-demo.gif)
+![Dashboard Demo](media/sales-dashboard-demo.gif)
+
+## 📁 File Structure
+
+```
+📁 Sales-Customer-Tableau-Dashboard/
+├── media/
+│   ├── sales-dashboard.png              # Screenshot of Sales Dashboard
+│   └── sales-dashboard-demo.gif         # Demo of the interactive dashboards
+├── sales-dashboard-materials/           # Supporting materials for Tableau dashboards
+│   ├── Dashboard Icons/                 # Icons used in dashboard UI
+│   ├── EU-Dataset/                      # Dataset for EU region
+│   └── Non-EU Dataset/                  # Dataset for Non-EU region
+├── sales_customer_dashboard.twb         # Tableau workbook file
+└── README.md                            # Project documentation for Tableau dashboard
+```
 
 ## 👩🏽‍💻 Contact
 Glory Odeyemi - Data Engineer & Analyst
