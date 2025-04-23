@@ -73,7 +73,7 @@ To understand customer behavior, trends, and segments to enhance marketing and r
   - **Location Info:** Region, State, City
 
 ## 🎥 Dashboard Demo
-
+> **🔗 View the Dashboard on [Tableau Public](https://public.tableau.com/views/SalesCustomerAnalysisDashboard_17447818756340/SalesDashboard)**
 ![Dashboard Demo](media/sales-dashboard-demo.gif)
 
 ## 📁 File Structure
