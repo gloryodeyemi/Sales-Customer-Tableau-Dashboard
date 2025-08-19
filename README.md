@@ -1,15 +1,17 @@
 # 📊 Tableau Sales & Customer Performance Dashboard
 
-This project features two interactive Tableau dashboards - **Sales Performance** and **Customer Analysis** - designed to help business stakeholders analyze sales trends, understand customer behavior, and make data-driven decisions.
+Designed and implemented a comprehensive Tableau analytics platform featuring dual interactive dashboards for sales performance tracking and customer behavior analysis, enabling stakeholders to identify revenue trends, optimize product strategies, and enhance customer retention through dynamic KPI monitoring, year-over-year comparisons, and actionable insights derived from multi-dimensional data exploration across regions, products, and time periods.
 
 ![Dashboard](media/sales-dashboard.png)
 
-## 🎯 Project Objectives & Business Value
-This project enables organizations to:
-- Track sales growth and profit fluctuations effectively.
-- Identify high-performing products and customer segments.
-- Improve customer satisfaction through data-driven marketing.
-- React proactively to seasonal sales trends and anomalies.
+## 🎯 Strategic Business Impact & Objectives
+This analytics platform empowers organizations to:
+
+* **Drive Revenue Growth:** Track sales performance with year-over-year comparisons and identify high-impact opportunities
+* **Optimize Product Strategy:** Analyze subcategory performance trends and seasonal patterns for inventory planning
+* **Enhance Customer Retention:** Understand customer lifetime value, ordering patterns, and engagement levels
+* **Enable Proactive Decision-Making:** Monitor weekly/monthly trends to react quickly to market changes and anomalies
+* **Segment Market Opportunities:** Leverage geographic and demographic insights for targeted marketing campaigns
 
 ## 📌 Dashboards Overview
 
